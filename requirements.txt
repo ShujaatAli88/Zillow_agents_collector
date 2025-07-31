@@ -1,0 +1,10 @@
+requests
+lxml
+pandas
+pydantic
+loguru
+pydantic[email]
+python-dotenv
+google-cloud-bigquery
+pyarrow
+pandas_gbq
